@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameNews_Compose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="about_page">About Page</string>
+    <string name="profile_name">Elroi Yoshua</string>
+    <string name="profile_job">Undergraduate Student at Telkom University</string>
+    <string name="profile_email">elroiyoshua@gmail.com</string>
+</resources>
